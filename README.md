@@ -1,4 +1,6 @@
-# Barbet Skill Library
+# Barbet Harness Library
+
+> 本專案原名 Barbet Skill Library。它包含 64 份技能手冊，以及執行這些手冊的 `barbet_inference` 推論工具，所以改稱 Harness Library。Formerly the Barbet Skill Library: it now ships both the skills and the `barbet_inference` runtime that applies them.
 
 這是 [Barbet long-context SFT 資料集](https://huggingface.co/datasets/OpenFormosa/barbet-long-context-sft) 的公開程序技能庫。目前收錄 64 個可讀取、可版本化的技能，涵蓋通用指令、coding、math、agent/tool、reading、science 與 writing。技能描述**何時適用、輸入、程序、失敗處理及驗證**；不包含特定訓練題目的答案、隱藏測試或工具結果。
 
