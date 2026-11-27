@@ -164,7 +164,7 @@ OpenFormosa 是社群專案，每個人都可以是貢獻者。提議一份新�
 - 送出修改：請先讀 [CONTRIBUTING.md](CONTRIBUTING.md)
 - 一般聯絡：<hello@openformosa.com>
 - 安全問題：<security@openformosa.com>（請不要公開發 issue）
-- 行為準則：[行為準則](https://github.com/OpenFormosa/openformosa.com/blob/main/CODE_OF_CONDUCT.md)，回報請寄 <conduct@openformosa.com>
+- 行為準則：[CODE_OF_CONDUCT.md](https://github.com/OpenFormosa/openformosa.com/blob/main/CODE_OF_CONDUCT.md)，回報請寄 <conduct@openformosa.com>
 
 GitHub 上的變更不會自動改動已發布的資料集樣本。
 
