@@ -19,7 +19,7 @@ vllm = ["vllm==0.23.0", "transformers==5.12.1", "jinja2>=3.1.0,<4"]
 barbet-infer = "barbet_inference.cli:main"
 
 [project.urls]
-Repository = "https://github.com/OpenFormosa/barbet-skill-library"
+Repository = "https://github.com/OpenFormosa/barbet-harness-library"
 
 [tool.setuptools]
 packages = ["barbet_inference", "barbet_inference.skill_data", "testtime"]
